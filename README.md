@@ -42,8 +42,8 @@
         LHS=0, RHS=number(null)=0. But, null is only equal to undefined.
 
     - Incomparable undefined
-        undefined>0  -> false
-        undefined>=0 -> false
-        undefined==0 -> false
+        - undefined>0  -> false
+        - undefined>=0 -> false
+        - undefined==0 -> false
         - Any comparison with undefined is false,
-        - undefined==null -> true
+        - except, undefined==null -> true
