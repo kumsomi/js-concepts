@@ -11,6 +11,7 @@
         - space only string-> 0
         - '2'-> 2
         - '2px' -> NaN
+     - Unary + : Will convert the non-numeric type to number
 
     - undefined -> NaN
     - null -> 0
