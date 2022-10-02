@@ -4,6 +4,7 @@
 #### Numeric
     - Happens Automatically in a mathematical functions.
     - String/String-> number 
+    - String+String -> String //+ concatenates the string. Whereas, -,/,* -> convert the String to Number
     - String: 
         - whitespaces-> removed, 
         - empty string-> 0
