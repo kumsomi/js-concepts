@@ -1,6 +1,6 @@
 # js-concepts
 
-### Conversions
+### 1. Conversions
 #### Numeric
     - Happens Automatically in a mathematical functions.
     - String/String-> number 
@@ -16,5 +16,5 @@
     - Boolean -> true= 1, false= 0
 #### Boolean Conversion
     - Boolean of empty values(0, null, undefined, NaN) -> false
-    - Boolean of non-empty string is <strong>true</strong>.
-    - Boolean of empty string is <strong>false</strong>
+    - Boolean of non-empty string is true .
+    - Boolean of empty string is false. 
